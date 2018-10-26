@@ -1,0 +1,8 @@
+name: rmr
+version: 0.0.1
+
+description: Web server framework for Dart
+author: SebastiaanYN
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
